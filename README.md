@@ -1,3 +1,5 @@
+![header](https://www.yoh.com/hs-fs/hubfs/Stock%20images/Thoughtful%20young%20programmer%20coding%20on%20computer%20in%20the%20evening%20at%20home-1.jpeg?width=350&name=Thoughtful%20young%20programmer%20coding%20on%20computer%20in%20the%20evening%20at%20home-1.jpeg)
+
 Hello!👋
 - 👀 My name is Anurag Sindhu. I am a Backend engineer. I am from India, living in Bangalore.
 - 🌱 I’m currently learning NodeJs, Javascript, TypeScript, Mysql, MongoDb, GCP, AWS, Jest.
