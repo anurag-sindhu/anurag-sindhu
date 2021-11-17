@@ -24,6 +24,12 @@ Hello!👋
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag8867&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anurag's GitHub Stats" />
 </a>
 
+## 🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/anurag-sandhu-89a92ab8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anurag" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9768827/anurag-sandhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9768827" height="30" width="40" /></a>
+<a href="https://www.facebook.com/anurag.sindhu.79/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" alt="gautamkrishnar" height="30" width="50" /></a>
+
 <!---
 <a href="https://github.com/anurag8867/anurag8867">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag8867&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
