@@ -18,11 +18,13 @@ Hello!👋
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anurag8867/anurag8867">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag8867&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag8867&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/anurag8867/anurag8867">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag8867&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anurag's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag8867&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anurag's GitHub Stats" />
 </a>
+
+<!---
 <a href="https://github.com/anurag8867/anurag8867">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag8867&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -31,7 +33,8 @@ Hello!👋
 </a>
 <a href="https://github.com/anurag8867/anurag8867">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag8867&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> 
+--->
 <!---
 anurag8867/anurag8867 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
