@@ -3,8 +3,8 @@
 Hello!👋
 - 👀 My name is Anurag Sindhu. I am a Backend engineer. I am from India, living in Bangalore.
 - 🌱 I’m currently learning NodeJs, Javascript, TypeScript, Mysql, MongoDb, GCP, AWS and Jest.
-- 💞️ I have worked with In time tec and springworks. 👀 I'm currently working with Falabella.
-- 📫 You can reach me to `sindhuanurag2@gmail.com` or `https://www.linkedin.com/in/anurag8867`.
+- 💞️ I have worked with Falabella, In time tec and springworks. 👀 I'm currently working with Medibuddy.
+- 📫 You can reach out to me on `sindhuanurag2@gmail.com` or  <a href="https://www.linkedin.com/in/-anurag-sindhu">.
 
 ## 🔧 Langueages & Tools
 <p align='left'>
@@ -26,7 +26,7 @@ Hello!👋
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://www.linkedin.com/in/anurag8867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anurag" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/-anurag-sindhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anurag" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9768827/anurag-sandhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9768827" height="30" width="40" /></a>
 <a href="https://www.facebook.com/anurag.sindhu.79/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" alt="gautamkrishnar" height="30" width="50" /></a>
 
