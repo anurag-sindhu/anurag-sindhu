@@ -1,7 +1,7 @@
 ![header](https://s27389.pcdn.co/wp-content/uploads/2021/09/national-coding-week-2021-addressing-digital-skills-gap-1012x440.jpeg.webp)
 
 Hello!👋
-- 👀 My name is Anurag Sindhu. I am a Backend engineer. I am from India, living in Bangalore.
+- 👀 Anurag Sindhu. I am a Backend engineer. I am from India, living in Bangalore.
 - 🌱 I’m currently learning NodeJs, Javascript, TypeScript, Mysql, MongoDb, GCP, AWS and Jest.
 - 💞️ I have worked with Falabella, In time tec and springworks. 👀 I'm currently working with Medibuddy.
 - 📫 You can reach out to me on `sindhuanurag2@gmail.com` or  <a href="https://www.linkedin.com/in/-anurag-sindhu">.
