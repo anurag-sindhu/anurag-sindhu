@@ -3,7 +3,7 @@
 Hello!👋
 - 👀 Anurag Sindhu. I am a Backend engineer. I am from India, living in Bangalore.
 - 🌱 I’m currently learning NodeJs, Javascript, TypeScript, Mysql, MongoDb, GCP, AWS and Jest.
-- 💞️ I have worked with Falabella, In time tec and springworks. 👀 I'm currently working with Medibuddy.
+- 💞️ I have worked with Medibuddy, Falabella, Springworks and In time tec. 👀 I'm currently working with Aditya Birla's Tmrw.
 - 📫 You can reach out to me on `sindhuanurag2@gmail.com` or  <a href="https://www.linkedin.com/in/-anurag-sindhu">.
 
 ## 🔧 Langueages & Tools
