@@ -17,10 +17,10 @@ Hello!👋
 </p>
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/anurag8867/anurag8867">
+<a href="https://github.com/anurag-sindhu/anurag-sindhu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag8867&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
-<a href="https://github.com/anurag8867/anurag8867">
+<a href="https://github.com/anurag-sindhu/anurag-sindhu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag8867&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Anurag's GitHub Stats" />
 </a>
 
