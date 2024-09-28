@@ -1,4 +1,4 @@
-![header](/b14c9d01-bf17-4d63-97b5-d134e25776b9.jpeg)
+<!-- ![header](/b14c9d01-bf17-4d63-97b5-d134e25776b9.jpeg) -->
 
 # 👋 Hello World!
 
