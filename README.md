@@ -9,7 +9,7 @@ I'm **Anurag Sindhu**, a passionate **Backend Engineer** from 🇮🇳 **India**
 - 👔 Previously worked at **[Medibuddy](https://www.medibuddy.in)**, **[Falabella](https://falabellaindia.com)**, and **[In Time Tec](https://www.intimetec.com)**.
 - 📬 You can reach me at `sindhuanurag2@gmail.com` or connect on [LinkedIn](https://www.linkedin.com/in/-anurag-sindhu) 📧.
 - 📄 **[Here’s my Resume](https://drive.google.com/uc?export=download&id=15veI8jB30BhXydOVDlUMsF4OSrmszacZ)**, only a click away! 📝
-- 🎯 Check my coding activity on **[Leetcode](https://leetcode.com/anurag-sindhu)** and **[Hackerrank](https://www.hackerrank.com/sindhuanurag2)**! 💻
+- 🎯 Check my coding activity on **[Leetcode](https://leetcode.com/anurag-sindhu)** and **[Hackerrank](https://www.hackerrank.com/anurag_sindhu)**! 💻
 
 ---
 
